@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pvVQGwmfJduWFQJ5z5jqpAUCC6GNvja919BEjNp8O7gLSUT4wyXEuMRURt7jCnms33rkztIfTX0IVOnwI+mNg==",
+  "success": true,
+  "projectFilePath": "/home/johan/Dropbox/Documents/Lexicon/LexiconTrainTracker/LexiconTrainTracker.csproj",
+  "expectedPackageFiles": [
+    "/home/johan/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/johan/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
